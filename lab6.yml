@@ -3,6 +3,8 @@ Project:
   title: "Lab 6"
   output-dir: docs
   type: website
+    pages:
+    - lab6.qmd
 format:
   html: 
     self-contained: true
